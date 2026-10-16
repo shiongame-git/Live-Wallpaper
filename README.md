@@ -1,2 +1,2 @@
-# LiveDenia
-Live wallpaper
+# Live wallpaper
+appファイルからインストールを行ってください
