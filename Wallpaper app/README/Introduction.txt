@@ -1,0 +1,49 @@
+User Guide
+
+[1. Set an Image]
+1. Open the app and select the “Materials” tab.
+2. Select “Lock Screen/Home Screen.”
+3. Select “Portrait/Landscape.” You can set different images and positions for each screen.
+4. Tap “Select Background Image from File” to choose a background image.
+5. Tap “Select Transparent Character Image from File” and choose a character image. We recommend using a PNG image with a transparent background.
+6. Drag the character in the preview, or use the left/right and up/down sliders to adjust its position. You can also adjust the character’s size.
+7. Tap “Apply Settings” to save. The wallpaper won’t be applied until you tap this button.
+
+Since the selected images are copied within the app, you can usually continue using them even if you move the original files. Wallpaper images are not included with the app. Please select your own images after installation.
+
+[2. Configure Motion Settings]
+1. Open the “Settings” tab.
+2. Switch between portrait and landscape previews to check the display.
+3. Adjust the speed and amplitude of the motion. Changes are reflected in the preview as you make them.
+4. Tap “Apply Settings” to save and apply the changes to the live wallpaper itself.
+
+[3. Change the Display Language]
+1. Open the “Settings” tab.
+2. Tap “Display Language.”
+3. Choose from Japanese, English, Simplified Chinese, or Korean. After selecting, the app’s interface will switch to the chosen language.
+
+[4. Apply the Live Wallpaper]
+1. Tap “Open Live Wallpaper Settings” in the “Assets” tab.
+2. Check the display in the Android wallpaper preview.
+3. Tap “Set Wallpaper” on the system screen and select where to apply it, such as the lock screen or home screen. The screen and options may vary depending on your device.
+
+When unlocking your device, an animation will play as the screen transitions from the lock screen to the home screen. This wallpaper does not support continuous tracking of finger movements on the lock screen.
+
+[5. Using Presets]
+1. Adjust the material and motion settings, then tap “Apply Settings” on each tab.
+2. On the “Presets” tab, tap “Save Current Settings as Preset,” give it a name, and save it.
+3. Tap the name of a saved preset to apply it. To delete an unwanted preset, tap “Delete.”
+
+If you turn “Random Switch When Screen Turns Off” ON, and you have two or more saved presets, the preset will switch randomly when the screen turns off. The new settings will be displayed the next time you turn the screen back on. If you don’t want to use this feature, turn it OFF using the same button.
+
+[6. Setting the Audio Source (BGM)]
+1. Open the “Audio” tab, tap “Select Audio Source,” and choose an audio file such as MP3 or OGG.
+2. Adjust the volume and enable or disable the BGM as needed.
+3. Tap “Apply Settings” to apply the changes to the wallpaper.
+
+The selected audio file will play on a loop while the wallpaper is displayed. If no audio file is selected, no sound will play. This version does not include any built-in audio files.
+
+[7. Image Guidelines]
+・Using an image that is slightly larger than the screen makes it easier to display all the way to the edges.
+・For characters, we recommend using PNG images that include transparent areas.
+・Large images will be scaled down during loading, but the wait time during initial setup varies depending on the image size.
