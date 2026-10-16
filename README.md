@@ -1,2 +1,2 @@
 # Live wallpaper
-appファイルからインストールを行ってください
+Wallpaper appファイルからインストールを行ってください
